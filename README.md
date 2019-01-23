@@ -1,6 +1,6 @@
 <h1>Projet : The Gossip Project - The MVC POO version</h1>
 
-<h2>1pplication qui s'appelle The Gossip Project, où l'utilisateur pourra rentrer les ragots et rumeur, afficher une liste des potins, puis de supprimer ceux qui ne sont plus d'actualité.</h2>
+<h2>Application qui s'appelle The Gossip Project, où l'utilisateur pourra rentrer les ragots et rumeur, afficher une liste des potins, puis de supprimer ceux qui ne sont plus d'actualité.</h2>
 
 <h5>
   <ul>
@@ -10,6 +10,4 @@
   </ul>
 </h5>
 
-<center>
   <img src="https://i2.wp.com/laboate.com/next3/wp-content/uploads/2018/05/hacking-project.png?fit=240%2C239" alt="logoTHP">
-</center>
