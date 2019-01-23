@@ -1,6 +1,6 @@
 <h1>Projet : The Gossip Project - The MVC POO version</h1>
 
-<h2>Application qui s'appelle The Gossip Project, où l'utilisateur pourra rentrer les ragots et rumeur, afficher une liste des potins, puis de supprimer ceux qui ne sont plus d'actualité.</h2>
+<h2>Application qui s'appelle The Gossip Project, où l'utilisateur pourra rentrer les ragots et rumeur, afficher la liste des potins, puis de supprimer ceux qui ne sont plus d'actualité.</h2>
 
 <h5>
   <ul>
